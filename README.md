@@ -15,7 +15,7 @@ architecting infrastructure that ships itself and teams that grow together.</i><
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikasportfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nicknet1c)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicknet1c/)
-[![Resume](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/Nikagagua/Nikagagua/master/CV%20-%20Nika%20Gagua.pdf)
+[![Resume](https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/Nikagagua/Nikagagua/main/CV%20-%20Nika%20Gagua.pdf)
 
 <br>
 
@@ -52,12 +52,12 @@ architecting infrastructure that ships itself and teams that grow together.</i><
 
 <table>
 <tr>
-<td align="center"><b>🏗️ Sr. Software Architect</b><br>Distributed systems, microservices, DDD, REST & GraphQL API design, enterprise integration</td>
-<td align="center"><b>☁️ Sr. DevOps Architect</b><br>Cloud-native infra, GitOps, IaC, AI-powered CI/CD, SRE & observability</td>
+<td align="center"><b>🏗️ Sr. Software Architect</b><br>Distributed systems, microservices, DDD, REST & GraphQL API design, enterprise integration<br><sub><i>Newvision University</i></sub></td>
+<td align="center"><b>☁️ Sr. DevOps Architect</b><br>Cloud-native infra, GitOps, IaC, AI-powered CI/CD, SRE & observability<br><sub><i>Steel International Trading</i></sub></td>
 </tr>
 <tr>
 <td align="center"><b>🤖 AI-Augmented DevOps</b><br>LLM-integrated pipelines, auto-remediation, MLOps, intelligent automation</td>
-<td align="center"><b>🎓 CS Department Head</b><br>Curriculum modernization, faculty leadership, bridging academia & industry</td>
+<td align="center"><b>🎓 CS Department Head</b><br>Curriculum modernization, faculty leadership, bridging academia & industry<br><sub><i>Kutaisi International University</i></sub></td>
 </tr>
 <tr>
 <td align="center"><b>💼 Fintech & SaaS</b><br>Enterprise solutions with Python & Django — Swiss Capital, Elephant Fishing GmbH</td>
