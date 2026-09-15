@@ -292,7 +292,7 @@ Connected thousands of students — high engagement, measurable learning outcome
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikagagua&bg_color=0c1115&color=6baaf1&line=6565d3&point=feffff&area=true&area_color=6565d3&hide_border=true&title_color=8888e8" alt="Contribution Graph" width="860"/>
+<img src="https://ghchart.rshah.org/6565d3/nikagagua" alt="Contribution Graph" width="860"/>
 
 </div>
 
