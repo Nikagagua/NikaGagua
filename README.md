@@ -288,11 +288,7 @@ Connected thousands of students — high engagement, measurable learning outcome
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikagagua&theme=github-dark-blue&hide_border=true&stroke=6baaf1&ring=6565d3&fire=6565d3&currStreakNum=6baaf1&sideNums=6baaf1&currStreakLabel=8888e8&sideLabels=8888e8&dates=5a6375&background=0c1115" alt="GitHub Streak" width="860"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/6565d3/nikagagua" alt="Contribution Graph" width="860"/>
+<img src="./profile/streak.svg" alt="GitHub Streak" width="860"/>
 
 </div>
 
